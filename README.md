@@ -1,8 +1,5 @@
 ### こにちは 👋
 
-<img src="Brushes.jpg" width="800" height="200">
-
-
 <!--
 **morimoto-hiroshi/morimoto-hiroshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
